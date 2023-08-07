@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/connect4.jpeg'
 import IMG2 from '../../assets/moblima.jpeg'
-import IMG3 from '../../assets/sudoku.png'
+import IMG3 from '../../assets/Map.png'
 
 const data = [
   {
@@ -24,10 +24,10 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Sudoku',
-    subtext: 'Language: Java',
-    github: 'https://github.com/yujiho1910/Sudoku',
-    demo: 'https://github.com'
+    title: 'Map Clustering',
+    subtext: 'Frameworks used: Angular, Flask',
+    github: 'https://github.com/yujiho1910/clusterer_frontend',
+    demo: 'https://yellow-glacier-015335b00.3.azurestaticapps.net'
   }
 ] // to make it dynamic
   
