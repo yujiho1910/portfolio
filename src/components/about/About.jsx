@@ -35,17 +35,13 @@ const About = () => {
             <article className='about__card'>
               <FaFolderOpen className='about__icon'/>
               <h5>Projects</h5>
-              <small>2 completed</small>
+              <small>3 completed</small>
             </article>
           </div>
 
           <p>
-          I’m Jing Rui, a student majoring in Mathematical and Computer Sciences. 
-
-I have always been passionate in math from a young age and decided to pursue it to a higher level. I also have a parallel interest in computers and its inner workings. 
-
-Ultimately, I believe these two fields have many similar aspects and understanding how they intersect is what I strive for.
-          </p>
+          I’m Jing Rui, a student majoring in Mathematical and Computer Sciences.
+I have always been passionate in math from a young age and after exploring the technology industry, I am interested in pursuing a career that combines both Computing and Mathematics. As such, Data Science and Machine Learning are my main interests, alongside understanding algorithms and ways to apply them to real life.          </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
