@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# 🌐 Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my personal portfolio website built with React and deployed via GitHub Pages.
 
-## Available Scripts
+It serves as a central hub to showcase my background, technical skills, and key projects — including my Final Year Project (FYP), algorithmic trading tools, and mathematical finance experiments.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🧑‍💻 About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I'm Ho Jing Rui, a backend software engineer currently working at Synapxe, with a BSc in Mathematical and Computer Sciences from Nanyang Technological University (NTU), awarded with Highest Distinction and a specialisation in Financial Modelling.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This site was built to highlight:
+- Technical projects in quantitative finance and data science
+- Research work in combinatorics and graph theory
+- Personal interests and development tools
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Built With
 
-### `npm run build`
+- React (via Create React App)
+- JavaScript / HTML / CSS
+- React Router for page navigation
+- GitHub Pages for hosting
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📁 Folder Structure
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```text
+my-portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.js
+├── package.json
+├── .gitignore
+└── README.md
+```
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠 Available Scripts
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm install         # Install dependencies
+npm start           # Run development server
+npm run build       # Build for production
+npm run deploy      # Deploy to GitHub Pages
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔗 Live Site
 
-## Learn More
+yujiho1910.github.io/portfolio
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📌 Highlights
 
-### Code Splitting
+- FYP: Obtaining Coherent Configurations on Non-Distance Regular Graphs
+- Quant Backtester for Strategy Simulation
+- Monte Carlo Option Pricing Engine
+- Visual dashboards & mathematical writeups
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📫 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Email: yujiho54@gmail.com  
+LinkedIn: linkedin.com/in/jingrui19  
+GitHub: github.com/yujiho1910
