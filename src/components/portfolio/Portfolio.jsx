@@ -1,16 +1,25 @@
 import React from 'react'
 import './portfolio.css'
 // ...existing code...
-import IMG4 from '../../assets/r3.png'
+import IMG1 from '../../assets/r3.png'
+import IMG2 from '../../assets/chopsticks.png'
 
 const data = [
   {
     id: 1,
-    image: IMG4,
-    title: 'FYP: Coherent Configurations on Non-Structured Graphs',
-    subtext: 'Exploring graph operations on strongly regular graphs and their effect on coherent configurations. Abstract: Many regularly structured graphs, such as strongly regular graphs, have been extensively studied, and their spectral and algebraic properties are well documented in the literature. In contrast, the study of non-structured graphs remains limited, largely due to the difficulty of systematically constructing and analyzing them. This project explores whether simple graph operations—such as vertex deletion and switching—performed on strongly regular graphs can produce non-structured graphs, and examines how these operations affect their associated coherent configurations.',
+    image: IMG1,
+    title: 'Final Year Project',
+    subtext: 'Exploring how graph operations on strongly regular graphs affect coherent configurations. Project investigating vertex deletion and switching operations on non-structured graphs.',
     github: 'https://github.com/yujiho1910/FinalYearProject',
     demo: 'https://github.com/yujiho1910/FinalYearProject/blob/main/deliverables/report.pdf'
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: 'Chopsticks Game',
+    subtext: 'A digital recreation of the classic childhood strategy game beloved by Singaporean children. Interactive web game with modern design and nostalgic gameplay.',
+    github: 'https://github.com/yujiho1910/chopsticks',
+    demo: 'https://yujiho1910.github.io/chopsticks'
   }
 ] 
   
