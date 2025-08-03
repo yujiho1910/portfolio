@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.419c6751.css",
-    "main.js": "/portfolio/static/js/main.1785d0cb.js",
+    "main.css": "/portfolio/static/css/main.46239f47.css",
+    "main.js": "/portfolio/static/js/main.0764b82b.js",
     "static/media/dp.jpg": "/portfolio/static/media/dp.6fa685fc1b8244ce3007.jpg",
     "static/media/chocobear.png": "/portfolio/static/media/chocobear.43f56d70ee2c93434ef0.png",
     "static/media/NTU_Transcript.pdf": "/portfolio/static/media/NTU_Transcript.2ec57b5b56ebe676f989.pdf",
     "static/media/resume_V4.pdf": "/portfolio/static/media/resume_V4.13adb8aa8cb12bed31b0.pdf",
-    "static/media/r3.png": "/portfolio/static/media/r3.cc18583b8fed231dc436.png",
+    "static/media/r3.png": "/portfolio/static/media/r3.0ecb3a2ed4543aa53195.png",
+    "static/media/chopsticks.png": "/portfolio/static/media/chopsticks.8115a521517449572713.png",
     "index.html": "/portfolio/index.html",
-    "main.419c6751.css.map": "/portfolio/static/css/main.419c6751.css.map",
-    "main.1785d0cb.js.map": "/portfolio/static/js/main.1785d0cb.js.map"
+    "main.46239f47.css.map": "/portfolio/static/css/main.46239f47.css.map",
+    "main.0764b82b.js.map": "/portfolio/static/js/main.0764b82b.js.map"
   },
   "entrypoints": [
-    "static/css/main.419c6751.css",
-    "static/js/main.1785d0cb.js"
+    "static/css/main.46239f47.css",
+    "static/js/main.0764b82b.js"
   ]
 }
